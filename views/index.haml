@@ -1,0 +1,48 @@
+!!! 5
+%html
+  %head
+    %meta{"http-equiv" => "Content-Type", :content => "text/html; charset=utf-8"}
+    %meta{:name => "verify-v1", :content => "Qa90/7ZiuzAPR5J/Yp6odMQE/Wrso/1kA9tYLsFZDfE="}
+    %meta{:name => "viewport", :content => "width=device-width"}
+
+    %title Dan Dorman
+
+    %link{:rel => "stylesheet", :type => "text/css", :href => "//fonts.googleapis.com/css?family=IM+Fell+English"}
+    %link{:rel => "stylesheet", :type => "text/css", :href => "/underwhelm.css"}
+
+    %script{:src => "//www.google-analytics.com/urchin.js"}
+    :javascript
+      _uacct = 'UA-2431437-1';
+      try {
+        urchinTracker();
+      } catch (e) {
+        ; // Google Analytics is probably blocked; oh, well
+      }
+    %script{:src => "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"}
+    %script{:src => "/js/underwhelm.js"}
+  %body
+    #container
+      %header
+        %h1 Dan Dorman
+      #tweet= haml :tweet, :locals => { :tweet => @tweet }
+      %article
+        %p
+          %img{:src => "/img/dan_beard_small.png", :alt => "A sketch by Marci of Dan with a beard in a yellow shirt."}
+        %p
+          I develop webs. Mostly I wield PHP and Javascript, but I like to use Ruby where I can.
+        :markdown
+          I spend my days crafting code at [SupplyLink](//supplylinkusa.com/). Between the nine-to-five gig and my [adorable twin daughters](//whimsyriver.posterous.com/), I&rsquo;m kept pretty busy&mdash;but if you&rsquo;ve got a sufficiently interesting opportunity, [let me know](mailto:dan.dorman@gmail.com).
+
+        %section
+          %h2 Where&rsquo;s the Blog?
+          :markdown
+            I had a weblog here. It will be back one day (in some form or another), but quite a bit can still be read via the [Atom feed](/atom.xml).
+
+        %section
+          %h2 But Dan, What Is the Haps?!
+          :markdown
+            In the mean time, if you&rsquo;ve an insatiable hankering for real-time Dan information, you can [follow me](//twitter.com/dandorman) on Twitter.
+
+      %footer
+        %p
+          &copy; 2010 Mr. Dan Dorman
