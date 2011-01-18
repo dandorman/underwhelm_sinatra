@@ -1,0 +1,622 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<title>underwhelm</title>
+	<subtitle>Dan Dorman's weblog</subtitle>
+	<link rel="self" href="http://underwhelm.net/atom.xml" />
+	<updated>2008-09-01T18:16:00Z</updated>
+	<author>
+		<name>Dan Dorman</name>
+		<email>dan.dorman@gmail.com</email>
+	</author>
+	<id>http://www.underwhelm.net/</id>
+
+	<entry>
+		<title>Two Things</title>
+		<link rel="alternate" href="http://underwhelm.net/?blog=200809011816" />
+		<id>tag:underwhelm.net,2008-09-01:200809011816</id>
+		<updated>2008-09-01T18:16:00Z</updated>
+		<summary>Two things of note happened recently:</summary>
+	</entry>
+
+	<entry>
+		<title>Unqwantzifiable</title>
+		<link rel="alternate" href="http://underwhelm.net/?blog=200806171310" />
+		<id>tag:underwhelm.net,2008-06-17:200806171310</id>
+		<updated>2008-06-17T13:10:00Z</updated>
+		<summary>
+			Wow! Today's Dinosaur Comics is one of my all-time faves, dealing as it does with zombies.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>All Those Yesterdays</title>
+		<link rel="alternate" href="http://underwhelm.net/?blog=200804242036" />
+		<id>tag:underwhelm.net,2008-04-24:200804242036</id>
+		<updated>2008-04-24T20:36:00Z</updated>
+		<summary>
+			Today was my last day of undergraduate classes at Weber State University.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>All We Can Say Is...</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200804022155" />
+		<id>tag:underwhelm.net,2008-04-02:200804022155</id>
+		<updated>2008-04-02T21:55:00Z</updated>
+		<summary>
+			A couple of weeks ago--19 March, to be exact--marked a half-decade's occupation of Iraq by the United States (followed closely by the grim milestone of 4,000 American dead).
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Tonight on ER</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200712300036" />
+		<id>tag:underwhelm.net,2007-12-30:200712300036</id>
+		<updated>2007-12-30T12:36:00Z</updated>
+		<summary>
+			Getting beaned in the ear by a racquetball should have been a sign.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Christmas 1988</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200712231402" />
+		<id>tag:underwhelm.net,2007-12-23:200712231402</id>
+		<updated>2007-12-23T14:02:00Z</updated>
+		<summary>
+			December 1988: I was ten years old, and the Nintendo Entertainment System ruled the earth.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>United</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200711051816" />
+		<id>tag:underwhelm.net,2007-11-05:200711051816</id>
+		<updated>2007-11-05T18:16:00Z</updated>
+		<summary>
+			Man, there's so much I should be blogging about, and so little of it has made it out of my isolated meat mind to the vast distributed memory of cyberspace.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>The Days Are Just Packed</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200710230230" />
+		<id>tag:underwhelm.net,2007-10-23:200710230230</id>
+		<updated>2007-10-23T02:30:00Z</updated>
+		<summary>
+			Man, there's so much I should be blogging about, and so little of it has made it out of my isolated meat mind to the vast distributed memory of cyberspace.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Brevity Is the Soul of Wit</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200710011742" />
+		<id>tag:underwhelm.net,2007-10-01:200710011742</id>
+		<updated>2007-10-01T17:42:00Z</updated>
+		<summary>
+			I was excited about the new season of The Office, and I finally got a chance to watch the hour-long season premier Saturday night.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>My [Digital] Rights [Management] Versus Yours</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200709252038" />
+		<id>tag:underwhelm.net,2007-09-25:200709252038</id>
+		<updated>2007-09-25T20:38:00Z</updated>
+		<summary>
+			DRM-free downloads have finally hit the big time: Amazon has unveiled their own music download service, with something like two million songs.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Can You Handle It?</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200709122043" />
+		<id>tag:underwhelm.net,2007-09-12:200709122043</id>
+		<updated>2007-09-12T20:43:00Z</updated>
+		<summary>
+			I got kick out of this Wired.com column about character death in D&amp;D.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Ennui</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200708210200" />
+		<id>tag:underwhelm.net,2007-08-21:200708210200</id>
+		<updated>2007-08-21T02:00:00Z</updated>
+		<summary>
+			I read a blarticle the other day listing several mistakes to avoid when blogging.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>War Is Hell</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200707101633" />
+		<id>tag:underwhelm.net,2007-07-10:200707101633</id>
+		<updated>2007-07-10T16:33:00Z</updated>
+		<summary>
+			They say a picture is worth a thousand words: a boy attends the funeral of his father, a U.S. Marine.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>The Official Pizzeria of Your ISP</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200706201612" />
+		<id>tag:underwhelm.net,2007-06-20:200706201612</id>
+		<updated>2007-06-20T16:12:00Z</updated>
+		<summary>
+			Been a while without a post, so I thought I'd throw something up ... by which I mean, "I thought I would type a new entry and post it to the site," not "I thought I would vomit."
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Initial Acrobatics</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200705232317" />
+		<id>tag:underwhelm.net,2007-05-23:200705232317</id>
+		<updated>2007-05-23T23:17:00Z</updated>
+		<summary>
+			One of the web design mailing lists I subscribe to recently featured a discussion of acronyms.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>A Note from Washington</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200705100051" />
+		<id>tag:underwhelm.net,2007-05-10:200705100051</id>
+		<updated>2007-05-10T00:00:51Z</updated>
+		<summary>
+			I recently wrote my senators and congressman about the Copyright Royalty Board's decision to raise the royalty rates (PDF) paid by webcasters.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>To Demuse Is Not to Be?</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200704271727" />
+		<id>tag:underwhelm.net,2007-04-27:200704271727</id>
+		<updated>2007-04-27T17:27:00Z</updated>
+		<summary>
+			In my last entry, Jared mentioned the word "chutzpah", as well as its correct pronuncation--long "u" and an optionally silent "c", as it turns out.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Disconnect</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200704241630" />
+		<id>tag:underwhelm.net,2007-04-24:200704241630</id>
+		<updated>2007-04-24T16:30:00Z</updated>
+		<summary>
+			Here's a recent quote from the Leader of the Free World, King George W. Bush:
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Worldbottom</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200704091051" />
+		<id>tag:underwhelm.net,2007-04-09:200704091051</id>
+		<updated>2007-04-09T10:51:00Z</updated>
+		<summary>
+			Join me, o adventurer, on a trek to a mysterious land: a land blanketed in finely ground rock and time-smoothed sand; a land of frozen lakes and windswept plains; a land dotted with god-shaped sculptures of wind-chiseled rock and ice; a land populated only by the sun-and-salt-bleached bones of the long dead.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Go Gators!</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200704052353" />
+		<id>tag:underwhelm.net,2007-04-05:200704052353</id>
+		<updated>2007-04-05T23:53:00Z</updated>
+		<summary>
+			There&#039;s a song Gators fans sing.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Ocean of Noise</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200704031445" />
+		<id>tag:underwhelm.net,2007-04-03:200704031445</id>
+		<updated>2007-04-03T14:45:00Z</updated>
+		<summary>
+			In line with Jared&#039;s recent blog about ugly critters, here&#039;s a freaky compendium of some of the ocean&#039;s creepiest denizens.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Album of the Year?</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200703072025" />
+		<id>tag:underwhelm.net,2007-03-07:200703072025</id>
+		<updated>2007-03-07T20:25:00Z</updated>
+		<summary>
+			The Arcade Fire&#039;s new album, Neon Bible, was released to North American listeners yesterday, the follow-up to 2004&#039;s Funeral; Neon Bible might even be better than its predecessor, though of course it&#039;s too soon for me to tell.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>The Sound and the Fury</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200703051319" />
+		<id>tag:underwhelm.net,2007-03-05:200703051319</id>
+		<updated>2007-03-05T13:19:00Z</updated>
+		<summary>
+			Well, the RIAA is at it again.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>A View of a Kill</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200703011826" />
+		<id>tag:underwhelm.net,2007-03-01:200703011826</id>
+		<updated>2007-03-01T18:26:00Z</updated>
+		<summary>
+			You know your new operating system is a dog (as opposed to, say, a leopard or a fawn) when you're asked to re-release the old one.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>The Set of All Sets</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200702281036" />
+		<id>tag:underwhelm.net,2007-02-28:200702281036</id>
+		<updated>2007-02-28T10:36:00Z</updated>
+		<summary>
+			"What I need," muttered Dan, "is a new way to waste time."
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Redo</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200702271639" />
+		<id>tag:underwhelm.net,2007-02-27:200702271639</id>
+		<updated>2007-02-27T16:39:00Z</updated>
+		<summary>
+			I was messing about with the site's back end a bit, trying to add the ability for Markdown-style links in the "handle" field of the ol' Feedback-o-matic and I accidently wiped out my last blog entry describing the whole deal.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Wee Three Links</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200702221338" />
+		<id>tag:underwhelm.net,2007-02-22:200702221338</id>
+		<updated>2007-02-22T13:38:00Z</updated>
+		<summary>
+			In lieu of any original content, I'm just going to slap some more links up here.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>I'm so Ronery / So ronery / So ronery and sadry arone</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200702211057" />
+		<id>tag:underwhelm.net,2007-02-21:200702211057</id>
+		<updated>2007-02-21T10:57:00Z</updated>
+		<summary>
+			Here's a collection of photographs taken in North Korea.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>But at What Price?</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200702201902" />
+		<id>tag:underwhelm.net,2007-02-20:200702201902</id>
+		<updated>2007-02-20T19:02:00Z</updated>
+		<summary>
+			Here's an interesting if lengthy read about homelessness and similar issues--so-called "power-law distribution" problems--and the inherent difficulties in implementing the solutions to such problems.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>That&#039;s a Wrap</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200612312011" />
+		<id>tag:underwhelm.net,2006-12-31:200612312011</id>
+		<updated>2006-12-31T20:11:00Z</updated>
+		<summary>
+			2006 is about to breath its last, and 2007 is already waiting in the wings, eager to run out here and show everybody what it&#039;s got.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Gators and Gifts</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200612081105" />
+		<id>tag:underwhelm.net,2006-12-08:200612081105</id>
+		<updated>2006-12-08T11:05:00Z</updated>
+		<summary>
+			Last weekend was pretty awesome for Gators fans.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Relief</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200611092127" />
+		<id>tag:underwhelm.net,2006-11-09:200611092127</id>
+		<updated>2006-11-09T21:27:00Z</updated>
+		<summary>
+			The Democrats have claimed the majority in both houses of Congress.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Hey [Fire]Foxymophandlemama</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200610250123" />
+		<id>tag:underwhelm.net,2006-10-25:200610250123</id>
+		<updated>2006-10-25T01:23:00Z</updated>
+		<summary>
+			It's here, the moment you've all been waiting for!
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Barenaked Music Files</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200610250003" />
+		<id>tag:underwhelm.net,2006-10-25:200610250003</id>
+		<updated>2006-10-25T00:03:00Z</updated>
+		<summary>
+			I'm not a big fan of the Barenaked Ladies.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Comment Spam? Here?</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200610242054" />
+		<id>tag:underwhelm.net,2006-10-24:200610242054</id>
+		<updated>2006-10-24T20:54:00Z</updated>
+		<summary>
+			My site has been inundated lately with comment spam from some sort of seedy financial outfit.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Hey, I Tried</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200610041952" />
+		<id>tag:underwhelm.net,2006-10-04:200610041952</id>
+		<updated>2006-10-04T19:52:00Z</updated>
+		<summary>
+			I bought the Decemberists&#039; new album Tuesday (October 3, 2006, for those of you reading this in the distant future via the archives).
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Gig</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200609240008" />
+		<id>tag:underwhelm.net,2006-09-24:200609240008</id>
+		<updated>2006-09-24T00:08:00Z</updated>
+		<summary>
+			After several years as Arno's office manager, I've moved on: I'm now actually getting paid to program.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Lawsuits and the American Playground</title>
+		<link rel="alternate" href="http://www.underwhelm.net/?blog=200609010117" />
+		<id>tag:underwhelm.net,2006-09-01:200609010117</id>
+		<updated>2006-09-01T01:17:00Z</updated>
+		<summary>
+			Did you hear the one about girl who is suing her friend for losing her iPod?
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Driverus Thoughtlessicus</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200608172027" />
+		<id>tag:underwhelm.net,2006-08-17:200608172027</id>
+		<updated>2006-08-17T20:27:00Z</updated>
+		<summary>
+			If I have a pet peeve, it's crappy drivers.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Brain Pages</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200608171931" />
+		<id>tag:underwhelm.net,2006-08-17:200608171931</id>
+		<updated>2006-08-17T19:31:00Z</updated>
+		<summary>
+			I came across an interesting article about how the brain sort of "boots up" in the morning.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>PHPool</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200608102327" />
+		<id>tag:underwhelm.net,2006-08-10:200608102327</id>
+		<updated>2006-08-10T23:27:00Z</updated>
+		<summary>
+			I just came back from a game of pool with Mike in which I scratched the deciding shot.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Shudderbug</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200608100004" />
+		<id>tag:underwhelm.net,2006-08-10:200608100004</id>
+		<updated>2006-08-10T00:04:00Z</updated>
+		<summary>
+			Jared sent me a link to an article about a photographer who works in Gaza documenting the ongoing violence.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Death Concert for Cuties</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200608090109" />
+		<id>tag:underwhelm.net,2006-08-09:200608090109</id>
+		<updated>2006-08-09T01:09:00Z</updated>
+		<summary>
+			Went to the Death Cab for Cutie show at the McKay Event Center down in good ol' Orem, Utah.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>East</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200607121118" />
+		<id>tag:underwhelm.net,2006-07-12:200607121118</id>
+		<updated>2006-07-12T11:18:00Z</updated>
+		<summary>
+			I'm afraid this won't be much of an update, just a notice that I'm heading off to New Hampshire and Ohio for the next week or so!
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Net Neutrality</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200606241149" />
+		<id>tag:underwhelm.net,2006-06-24:200606241149</id>
+		<updated>2006-06-24T11:49:00Z</updated>
+		<summary>
+			Perhaps you noticed the little "Save the Net" sticker over there, just underneath the Irrepressible.info banner.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Tidings of Comfort and Joy</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200606240114" />
+		<id>tag:underwhelm.net,2006-06-24:200606240114</id>
+		<updated>2006-06-24T01:14:00Z</updated>
+		<summary>
+			Futurama is coming back!
+		</summary>
+	</entry>
+
+	<entry>
+		<title>She's a Mystery to Me</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200606240107" />
+		<id>tag:underwhelm.net,2006-06-24:200606240107</id>
+		<updated>2006-06-24T01:07:00Z</updated>
+		<summary>
+			I have the greatest girlfriend in the world.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Irrepressible Indeed</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200605312357" />
+		<id>tag:underwhelm.net,2006-05-31:200605312357</id>
+		<updated>2006-05-31T23:57:00Z</updated>
+		<summary>
+			You may have noticed the lil' box in the upper left of the site, from Amnesty International's new campaign, Irrepressible.info.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Crossword Caging, Dual Screens, and Rubies</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200605182352" />
+		<id>tag:underwhelm.net,2006-05-18:200604110028</id>
+		<updated>2006-05-18T23:52:00Z</updated>
+		<summary>
+			It has been a lethargic spring on the blogs. Interesting that the ebb and flow of life has swept everyone out to see at the same time ... or we all just got burned out on blogging.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Scraps from the Round Table</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200604110028" />
+		<id>tag:underwhelm.net,2006-04-11:200604110028</id>
+		<updated>2006-04-11T00:28:00Z</updated>
+		<summary>
+			I'll chase the entry about the craptacular Da Vinci Code with some quotes from the other book I've been reading lately, The Once and Future King by T. H. White.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>The Da Vinci Load</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200604100307" />
+		<id>tag:underwhelm.net,2006-04-10:200604100307</id>
+		<updated>2006-04-10T03:07:00Z</updated>
+		<summary>
+			Last week I spent a couple of nights reading Dan Brown's The Da Vinci Code.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>It Is a Far, Far Better Thing That I Do, than I Have Ever Done</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200603290252" />
+		<id>tag:underwhelm.net,2006-03-29:200603290252</id>
+		<updated>2006-03-29T02:52:00Z</updated>
+		<summary>
+			I was talking to Marci tonight about "cultural literacy".
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Southern Alligators Sighted in Indianapolis</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200603262345" />
+		<id>tag:underwhelm.net,2006-03-26:200603262345</id>
+		<updated>2006-03-26T23:45:00Z</updated>
+		<summary>
+			The Florida Gators men's basketball team has made into the Final Four after upsetting number-one-seeded Villanova 75-62!
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Swimming with Sharks (Cute Little Ones)</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200603200212" />
+		<id>tag:underwhelm.net,2006-03-20:200603200212</id>
+		<updated>2006-03-20T02:12:00Z</updated>
+		<summary>
+			So I volunteered a couple of Thursdays at the Road Home, a facility to assist homeless families.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Jolly Good Show</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200603200209" />
+		<id>tag:underwhelm.net,2006-03-20:200603200209</id>
+		<updated>2006-03-20T02:09:00Z</updated>
+		<summary>
+			I went to a David Gray concert the other night with Marci.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>With a New Introduction by the Author</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200603100238" />
+		<id>tag:underwhelm.net,2006-03-10:200603100238</id>
+		<updated>2006-03-10T02:38:00Z</updated>
+		<summary>
+			I recently read Reza Aslan's No god but God, about the origins and development of Islam.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Nice and Kind</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200602191447" />
+		<id>tag:underwhelm.net,2006-02-19:200602191447</id>
+		<updated>2006-02-19T21:47:00Z</updated>
+		<summary>
+			My technical writing class is the definition of drudgery.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Jetty Son</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200602042005" />
+		<id>tag:underwhelm.net,2006-02-05:200602042005</id>
+		<updated>2006-02-05T03:05:00Z</updated>
+		<summary>
+			A few weeks ago, Shasta and I ventured out to the Spiral Jetty, Robert Smithson's earth art masterpiece.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Mozart at a Quarter-Millennium</title>
+		<link rel="alternate" href="http://underwhelm.net/index.php?blog=200601272224" />
+		<id>tag:underwhelm.net,2006-01-28:200601272224</id>
+		<updated>2006-01-28T03:24:00Z</updated>
+		<summary>
+			On January 27, 1756, child piano prodigy cum composing genius Wolfgang Amadeus Mozart was born in Salzburg, Germany.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>E3</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200601190259" />
+		<id>tag:underwhelm.net,2006-01-19:200601190259</id>
+		<updated>2006-01-19T07:59:00Z</updated>
+		<summary>
+			Alas, the title of this blog does not refer to the Electronics Entertainment Expo, though I certainly wish I had the credentials to report on that illustrious affair.
+		</summary>
+	</entry>
+
+	<entry>
+		<title>Two Thousand Six</title>
+		<link rel="alternate" href="http://www.underwhelm.net/index.php?blog=200601010344" />
+		<id>tag:underwhelm.net,2006-01-01:200601010344</id>
+		<updated>2006-01-01T08:44:00Z</updated>
+		<summary>
+			Aught-five wrapped up, for me, at an airport, where I&#039;d gone to pick up my little brother.
+		</summary>
+	</entry>
+
+</feed>
