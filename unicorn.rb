@@ -5,8 +5,6 @@
 worker_processes 2
 working_directory @dir
 
-preload_app true
-
 timeout 30
 
 # Specify path to socket unicorn listens to,
